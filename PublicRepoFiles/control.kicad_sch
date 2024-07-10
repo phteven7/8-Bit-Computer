@@ -6854,6 +6854,7 @@
 	(hierarchical_label "~{AO}"
 		(shape output)
 		(at 218.44 90.17 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6865,6 +6866,7 @@
 	(hierarchical_label "~{IO}"
 		(shape output)
 		(at 218.44 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6876,6 +6878,7 @@
 	(hierarchical_label "CLR"
 		(shape output)
 		(at 93.98 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6887,6 +6890,7 @@
 	(hierarchical_label "~{MI}"
 		(shape output)
 		(at 218.44 44.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6898,6 +6902,7 @@
 	(hierarchical_label "CF"
 		(shape input)
 		(at 111.76 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6909,6 +6914,7 @@
 	(hierarchical_label "~{CLR}"
 		(shape output)
 		(at 93.98 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6920,6 +6926,7 @@
 	(hierarchical_label "RI"
 		(shape output)
 		(at 218.44 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6931,6 +6938,7 @@
 	(hierarchical_label "ZF"
 		(shape input)
 		(at 111.76 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6942,6 +6950,7 @@
 	(hierarchical_label "~{AI}"
 		(shape output)
 		(at 218.44 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6953,6 +6962,7 @@
 	(hierarchical_label "~{RO}"
 		(shape output)
 		(at 218.44 54.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6964,6 +6974,7 @@
 	(hierarchical_label "~{II}"
 		(shape output)
 		(at 218.44 72.39 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6975,6 +6986,7 @@
 	(hierarchical_label "CE"
 		(shape output)
 		(at 218.44 128.27 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6986,6 +6998,7 @@
 	(hierarchical_label "IR_6"
 		(shape input)
 		(at 81.28 115.57 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6997,6 +7010,7 @@
 	(hierarchical_label "IR_4"
 		(shape input)
 		(at 81.28 110.49 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7008,6 +7022,7 @@
 	(hierarchical_label "~{BI}"
 		(shape output)
 		(at 218.44 120.65 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7019,6 +7034,7 @@
 	(hierarchical_label "~{J}"
 		(shape output)
 		(at 218.44 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7030,6 +7046,7 @@
 	(hierarchical_label "OI"
 		(shape output)
 		(at 218.44 125.73 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7041,6 +7058,7 @@
 	(hierarchical_label "HLT"
 		(shape output)
 		(at 218.44 39.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7052,6 +7070,7 @@
 	(hierarchical_label "IR_5"
 		(shape input)
 		(at 81.28 113.03 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7063,6 +7082,7 @@
 	(hierarchical_label "~{CO}"
 		(shape output)
 		(at 218.44 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7074,6 +7094,7 @@
 	(hierarchical_label "SU"
 		(shape output)
 		(at 218.44 115.57 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7085,6 +7106,7 @@
 	(hierarchical_label "~{CLK}"
 		(shape input)
 		(at 40.64 67.31 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7096,6 +7118,7 @@
 	(hierarchical_label "~{EO}"
 		(shape output)
 		(at 218.44 110.49 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7107,6 +7130,7 @@
 	(hierarchical_label "~{FI}"
 		(shape output)
 		(at 218.44 151.13 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -7118,6 +7142,7 @@
 	(hierarchical_label "IR_7"
 		(shape input)
 		(at 81.28 118.11 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)

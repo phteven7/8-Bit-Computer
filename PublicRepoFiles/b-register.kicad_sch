@@ -3125,6 +3125,7 @@
 	(hierarchical_label "BUS_0"
 		(shape bidirectional)
 		(at 38.1 15.24 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3136,6 +3137,7 @@
 	(hierarchical_label "CLK"
 		(shape input)
 		(at 38.1 38.1 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3147,6 +3149,7 @@
 	(hierarchical_label "BUS_7"
 		(shape bidirectional)
 		(at 38.1 33.02 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3158,6 +3161,7 @@
 	(hierarchical_label "CLR"
 		(shape input)
 		(at 208.28 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3169,6 +3173,7 @@
 	(hierarchical_label "B_1"
 		(shape output)
 		(at 165.1 118.11 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3180,6 +3185,7 @@
 	(hierarchical_label "~{BI}"
 		(shape input)
 		(at 208.28 43.18 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3191,6 +3197,7 @@
 	(hierarchical_label "B_0"
 		(shape output)
 		(at 165.1 115.57 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3202,6 +3209,7 @@
 	(hierarchical_label "BUS_4"
 		(shape bidirectional)
 		(at 38.1 25.4 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3213,6 +3221,7 @@
 	(hierarchical_label "~{BO}"
 		(shape input)
 		(at 208.28 91.44 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3224,6 +3233,7 @@
 	(hierarchical_label "BUS_2"
 		(shape bidirectional)
 		(at 38.1 20.32 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3235,6 +3245,7 @@
 	(hierarchical_label "B_4"
 		(shape output)
 		(at 165.1 125.73 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3246,6 +3257,7 @@
 	(hierarchical_label "BUS_5"
 		(shape bidirectional)
 		(at 38.1 27.94 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3257,6 +3269,7 @@
 	(hierarchical_label "BUS_6"
 		(shape bidirectional)
 		(at 38.1 30.48 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3268,6 +3281,7 @@
 	(hierarchical_label "B_2"
 		(shape output)
 		(at 165.1 120.65 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3279,6 +3293,7 @@
 	(hierarchical_label "B_6"
 		(shape output)
 		(at 165.1 130.81 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3290,6 +3305,7 @@
 	(hierarchical_label "B_3"
 		(shape output)
 		(at 165.1 123.19 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3301,6 +3317,7 @@
 	(hierarchical_label "B_7"
 		(shape output)
 		(at 165.1 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3312,6 +3329,7 @@
 	(hierarchical_label "BUS_1"
 		(shape bidirectional)
 		(at 38.1 17.78 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3323,6 +3341,7 @@
 	(hierarchical_label "BUS_3"
 		(shape bidirectional)
 		(at 38.1 22.86 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -3334,6 +3353,7 @@
 	(hierarchical_label "B_5"
 		(shape output)
 		(at 165.1 128.27 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)

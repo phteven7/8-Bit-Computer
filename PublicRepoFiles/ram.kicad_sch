@@ -6642,6 +6642,7 @@
 	(hierarchical_label "BUS_1"
 		(shape bidirectional)
 		(at 256.54 109.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6653,6 +6654,7 @@
 	(hierarchical_label "BUS_7"
 		(shape bidirectional)
 		(at 256.54 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6664,6 +6666,7 @@
 	(hierarchical_label "PROG"
 		(shape input)
 		(at 116.84 129.54 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6675,6 +6678,7 @@
 	(hierarchical_label "BUS_6"
 		(shape bidirectional)
 		(at 256.54 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6686,6 +6690,7 @@
 	(hierarchical_label "BUS_2"
 		(shape bidirectional)
 		(at 256.54 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6697,6 +6702,7 @@
 	(hierarchical_label "BUS_4"
 		(shape bidirectional)
 		(at 256.54 101.6 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6708,6 +6714,7 @@
 	(hierarchical_label "~{RO}"
 		(shape input)
 		(at 116.84 124.46 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6719,6 +6726,7 @@
 	(hierarchical_label "BUS_3"
 		(shape bidirectional)
 		(at 256.54 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6730,6 +6738,7 @@
 	(hierarchical_label "A3"
 		(shape input)
 		(at 226.06 34.29 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6741,6 +6750,7 @@
 	(hierarchical_label "A0"
 		(shape input)
 		(at 226.06 26.67 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6752,6 +6762,7 @@
 	(hierarchical_label "BUS_5"
 		(shape bidirectional)
 		(at 256.54 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6763,6 +6774,7 @@
 	(hierarchical_label "CLK"
 		(shape input)
 		(at 116.84 134.62 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6774,6 +6786,7 @@
 	(hierarchical_label "A2"
 		(shape input)
 		(at 226.06 31.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6785,6 +6798,7 @@
 	(hierarchical_label "BUS_0"
 		(shape bidirectional)
 		(at 256.54 111.76 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6796,6 +6810,7 @@
 	(hierarchical_label "RI"
 		(shape input)
 		(at 116.84 139.7 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6807,6 +6822,7 @@
 	(hierarchical_label "A1"
 		(shape input)
 		(at 226.06 29.21 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)

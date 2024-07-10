@@ -6098,6 +6098,7 @@
 	(hierarchical_label "BUS_6"
 		(shape tri_state)
 		(at 97.79 35.56 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6109,6 +6110,7 @@
 	(hierarchical_label "A_4"
 		(shape input)
 		(at 260.35 137.16 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6120,6 +6122,7 @@
 	(hierarchical_label "B_2"
 		(shape input)
 		(at 260.35 101.6 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6131,6 +6134,7 @@
 	(hierarchical_label "SU"
 		(shape input)
 		(at 260.35 25.4 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6142,6 +6146,7 @@
 	(hierarchical_label "~{FI}"
 		(shape input)
 		(at 22.86 111.76 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6153,6 +6158,7 @@
 	(hierarchical_label "B_4"
 		(shape input)
 		(at 260.35 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6164,6 +6170,7 @@
 	(hierarchical_label "BUS_5"
 		(shape tri_state)
 		(at 97.79 33.02 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6175,6 +6182,7 @@
 	(hierarchical_label "BUS_0"
 		(shape tri_state)
 		(at 97.79 20.32 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6186,6 +6194,7 @@
 	(hierarchical_label "A_3"
 		(shape input)
 		(at 260.35 139.7 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6197,6 +6206,7 @@
 	(hierarchical_label "ZF"
 		(shape output)
 		(at 45.72 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6208,6 +6218,7 @@
 	(hierarchical_label "B_0"
 		(shape input)
 		(at 260.35 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6219,6 +6230,7 @@
 	(hierarchical_label "CLR"
 		(shape input)
 		(at 22.86 121.92 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6230,6 +6242,7 @@
 	(hierarchical_label "B_6"
 		(shape input)
 		(at 260.35 91.44 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6241,6 +6254,7 @@
 	(hierarchical_label "B_7"
 		(shape input)
 		(at 260.35 88.9 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6252,6 +6266,7 @@
 	(hierarchical_label "BUS_3"
 		(shape tri_state)
 		(at 97.79 27.94 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6263,6 +6278,7 @@
 	(hierarchical_label "~{EO}"
 		(shape input)
 		(at 260.35 22.86 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6274,6 +6290,7 @@
 	(hierarchical_label "CLK"
 		(shape input)
 		(at 22.86 116.84 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6285,6 +6302,7 @@
 	(hierarchical_label "A_5"
 		(shape input)
 		(at 260.35 134.62 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6296,6 +6314,7 @@
 	(hierarchical_label "BUS_7"
 		(shape tri_state)
 		(at 97.79 38.1 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6307,6 +6326,7 @@
 	(hierarchical_label "A_0"
 		(shape input)
 		(at 260.35 147.32 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6318,6 +6338,7 @@
 	(hierarchical_label "BUS_1"
 		(shape tri_state)
 		(at 97.79 22.86 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6329,6 +6350,7 @@
 	(hierarchical_label "A_6"
 		(shape input)
 		(at 260.35 132.08 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6340,6 +6362,7 @@
 	(hierarchical_label "A_1"
 		(shape input)
 		(at 260.35 144.78 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6351,6 +6374,7 @@
 	(hierarchical_label "A_2"
 		(shape input)
 		(at 260.35 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6362,6 +6386,7 @@
 	(hierarchical_label "B_3"
 		(shape input)
 		(at 260.35 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6373,6 +6398,7 @@
 	(hierarchical_label "CF"
 		(shape output)
 		(at 45.72 30.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6384,6 +6410,7 @@
 	(hierarchical_label "A_7"
 		(shape input)
 		(at 260.35 129.54 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6395,6 +6422,7 @@
 	(hierarchical_label "BUS_4"
 		(shape tri_state)
 		(at 97.79 30.48 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6406,6 +6434,7 @@
 	(hierarchical_label "BUS_2"
 		(shape tri_state)
 		(at 97.79 25.4 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6417,6 +6446,7 @@
 	(hierarchical_label "B_1"
 		(shape input)
 		(at 260.35 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6428,6 +6458,7 @@
 	(hierarchical_label "B_5"
 		(shape input)
 		(at 260.35 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
